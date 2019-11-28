@@ -9,3 +9,5 @@ url: "https://timbobbarnes.github.io"
 
 # Build settings
 theme: minima
+plugins:
+  - jekyll-feed
